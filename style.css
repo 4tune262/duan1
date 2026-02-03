@@ -1,13 +1,32 @@
 h1 {
-  color: blue;
+  color: black;
   font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
 }
 p {
-  color: cadetblue;
+  color: black;
 }
 b {
   color: blue;
 }
 h2 {
-  color: blue;
+  color: black;
+  /* làm mờ hoàn toàn */
+  /* opacity: 0; */
+  /* Tắt hiển thị trên web */
+  /* display: none; */
+  /* Mất phần tử nhưng vẫn còn chừa chỗ */
+  /* visibility: hidden; */
+}
+table {
+  border-color: firebrick;
+}
+h4 {
+  opacity: 0.2;
+}
+body {
+  background-image: url(./img/jouwen-wang-qJ9FwIQgLHI-unsplash.jpg);
 }
