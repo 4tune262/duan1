@@ -27,6 +27,52 @@ table {
 h4 {
   opacity: 0.2;
 }
-body {
+/* body {
   background-image: url(./img/pexels-jplenio-1110656\ -\ Copy.jpg);
+} */
+#line312 {
+  color: blue;
+}
+.h3_mhw {
+  color: brown;
+  font-style: italic;
+}
+.class_menu_item314 {
+  color: aqua;
+}
+.li_316 {
+  color: blue;
+}
+.p_320 {
+  font-style: oblique;
+}
+#demo1 {
+  color: chartreuse;
+}
+.demo4.demo402 {
+  color: blue;
+}
+div > p {
+  color: blue;
+}
+.loichuc p {
+  font-size: 10px;
+}
+h2 + h3 {
+  color: red;
+}
+.demo_p4.demo2 + h3 {
+  color: blueviolet;
+}
+#line363 ~ h3 {
+  color: chocolate;
+}
+[attb] {
+  color: blue;
+}
+a[attb] {
+  color: brown;
+}
+[target="_blank"] {
+  color: pink;
 }
